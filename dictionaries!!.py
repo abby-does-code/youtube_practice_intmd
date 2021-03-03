@@ -15,6 +15,7 @@ print(mydict)
 # Acessing values (31:35)
 value = mydict["name"]
 print(value)
+# Weird, i thought that created a value.
 
 value = mydict["age"]
 print(value)
